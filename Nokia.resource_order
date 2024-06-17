@@ -1,0 +1,33 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_enemyFlatFuckLeft","order":5,"path":"sprites/spr_enemyFlatFuckLeft/spr_enemyFlatFuckLeft.yy",},
+    {"name":"spr_playerdeath","order":3,"path":"sprites/spr_playerdeath/spr_playerdeath.yy",},
+    {"name":"spr_playerLeft","order":4,"path":"sprites/spr_playerLeft/spr_playerLeft.yy",},
+    {"name":"spr_tileset1","order":2,"path":"sprites/spr_tileset1/spr_tileset1.yy",},
+<<<<<<< Updated upstream
+    {"name":"spr_timegunbullet","order":8,"path":"sprites/spr_timegunbullet/spr_timegunbullet.yy",},
+    {"name":"spr_timegunRight","order":7,"path":"sprites/spr_timegunRight/spr_timegunRight.yy",},
+    {"name":"spr_timegunLeft","order":9,"path":"sprites/spr_timegunLeft/spr_timegunLeft.yy",},
+=======
+    {"name":"spr_enemyFlatFuckRight","order":6,"path":"sprites/spr_enemyFlatFuckRight/spr_enemyFlatFuckRight.yy",},
+>>>>>>> Stashed changes
+  ],
+}

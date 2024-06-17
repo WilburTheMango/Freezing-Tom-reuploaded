@@ -1,0 +1,1 @@
+nextRoom = rom_level_end;
